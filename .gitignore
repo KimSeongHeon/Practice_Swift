@@ -3,4 +3,6 @@
 *.plist
 *.xcuserstate
 *.pbxproj
+*.h
+*.xcbkptlist
 
